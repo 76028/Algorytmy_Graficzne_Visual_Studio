@@ -1,0 +1,10 @@
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\bin\Debug\korekcja_gamma.exe
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\bin\Debug\korekcja_gamma.pdb
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\obj\x86\Debug\obrazy.csprojAssemblyReference.cache
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\obj\x86\Debug\korekcja_gamma.Form1.resources
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\obj\x86\Debug\korekcja_gamma.Obraz.resources
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\obj\x86\Debug\korekcja_gamma.Properties.Resources.resources
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\obj\x86\Debug\obrazy.csproj.GenerateResource.cache
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\obj\x86\Debug\obrazy.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\obj\x86\Debug\korekcja_gamma.exe
+C:\Users\Adrian\Downloads\gamma_cs\korekcja_gamma\obj\x86\Debug\korekcja_gamma.pdb
